@@ -1,0 +1,23 @@
+Patrick Quan
+10152770
+CPSC 453 - Assignment 4
+
+1 - Cornell Box
+2 - Objects Scene
+3 - Custom Scene
+
+NOTE: The program can only render a single scene per instance of the program. Thus to see all three scenes, the program must be closed and re-opened.
+
+ie. To see all scene, in the terminal type
+
+make
+./Boilerplate.out
+PRESS 1
+PRESS Esc
+./Boilerplate.out
+PRESS 2
+PRESS Esc
+./Boilerplate.out
+PRESS 3
+PRESS Esc
+
